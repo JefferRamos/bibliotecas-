@@ -17,6 +17,50 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngl-core": [
+        "dist/ngl-core"
+      ],
+      "ngl-core/*": [
+        "dist/ngl-core/*"
+      ],
+      "ngl-core-get": [
+        "dist/ngl-core-get"
+      ],
+      "ngl-core-get/*": [
+        "dist/ngl-core-get/*"
+      ],
+      "ngl-core-set": [
+        "dist/ngl-core-set"
+      ],
+      "ngl-core-set/*": [
+        "dist/ngl-core-set/*"
+      ],
+      "comp-input": [
+        "dist/comp-input"
+      ],
+      "comp-input/*": [
+        "dist/comp-input/*"
+      ],
+      "comp-button": [
+        "dist/comp-button"
+      ],
+      "comp-button/*": [
+        "dist/comp-button/*"
+      ],
+      "comp-label": [
+        "dist/comp-label"
+      ],
+      "comp-label/*": [
+        "dist/comp-label/*"
+      ],
+      "comp-navbar": [
+        "dist/comp-navbar"
+      ],
+      "comp-navbar/*": [
+        "dist/comp-navbar/*"
+      ]
+    }
   }
 }
